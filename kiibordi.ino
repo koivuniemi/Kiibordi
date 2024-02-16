@@ -1,18 +1,18 @@
 #include <LiquidCrystal.h>
 
-#define RS		0
-#define E		1
-#define INTRP1	2
-#define INTRP2	3
-#define CLK		4
-#define DATA	5
-#define OE		6
-#define DB4		14
-#define DB5		15
-#define DB6		16
-#define DB7		17
-#define COL_LEN     16
-#define ROW_LEN     2
+#define RS     0
+#define E      1
+#define INTRP1 2
+#define INTRP2 3
+#define CLK    4
+#define DATA   5
+#define OE     6
+#define DB4    14
+#define DB5    15
+#define DB6    16
+#define DB7    17
+#define COL_LEN    16
+#define ROW_LEN    2
 #define BACKSPACE  '\8'
 
 const char CHAR_MAP_1[] = "ABCDEFGHIJKLMNOP";
